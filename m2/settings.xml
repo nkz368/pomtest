@@ -4,6 +4,7 @@
    <server>
      <id>nexus</id>
      <username>comuser</username>
+     <!-- 暗号化か環境変数を使用するようにする -->
      <password>comuser123</password>
    </server>
  </servers>
